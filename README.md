@@ -19,7 +19,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -27,17 +27,16 @@
 
 ## 📊 Development Analytics
 
-<!-- Replace 'WAKATIME_USERNAME' with your actual WakaTime username -->
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gatyd&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=Weekly%20Development%20Breakdown)](https://wakatime.com/@Gatyd)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gatyd&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=Development%20Breakdown)](https://wakatime.com/@Gatyd)
 
 [![Coding Activity](https://wakatime.com/share/@Gatyd/7805a9b6-4614-4f0b-87bd-9a8de0393e8e.svg)](https://wakatime.com/@Gatyd)
 
 </div>
 
 ## 🧠 Knowledge Pursuit
-- 🔭 Currently exploring: Serverless Architectures & Microservices
-- 🌱 Deep diving into: Advanced TypeScript Patterns
-- 💡 Fascinated by: AI/ML Integration in Web Development
+- 🔭 Currently exploring: **Advanced UI Animations with GSAP**
+- 🌱 Deep diving into: **Performance optimization for web applications**
+- 💡 Fascinated by: **AI/ML Integration in Web Development**
 
 ## 🚀 Philosophy
 *"In technology, evolution is the only constant. My strength lies in rapidly adapting to new paradigms while maintaining robust fundamentals."*
